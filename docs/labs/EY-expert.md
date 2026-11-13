@@ -44,7 +44,7 @@ The three parts map directly to three Bob modes and three patterns you should ca
 **1 — Clone the workshop repo** (skip if you already have it)
 
 ```bash
-git clone git@github-halvoribm:HalvorIBM/EY.git
+
 cd EY
 ```
 
