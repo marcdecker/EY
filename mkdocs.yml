@@ -1,6 +1,6 @@
 site_name: IBM Bob — EY Lab Guide
 site_description: Hands-on lab guide for the IBM Bob Bobathon at EY — three tracks for Beginner, Intermediate, and Expert participants.
-site_url: https://halvoribm.github.io/EY
+site_url: https://marcdecker.github.io/EY
 
 theme:
   name: material
