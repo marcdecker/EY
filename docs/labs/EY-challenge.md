@@ -1,4 +1,4 @@
-# 🏆 OpenSlava — Final Challenge
+# 🏆 EY — Final Challenge
 
 **Open build · No time limit · First 3 to submit win a prize**
 

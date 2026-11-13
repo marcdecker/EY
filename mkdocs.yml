@@ -1,8 +1,8 @@
-site_name: IBM Bob — OpenSlava Lab Guide
-site_description: Hands-on lab guide for the IBM Bob Bobathon at OpenSlava — three tracks for Beginner, Intermediate, and Expert participants.
-site_url: https://halvoribm.github.io/openslava
-repo_url: https://github.com/HalvorIBM/openslava
-repo_name: HalvorIBM/openslava
+site_name: IBM Bob — EY Lab Guide
+site_description: Hands-on lab guide for the IBM Bob Bobathon at EY — three tracks for Beginner, Intermediate, and Expert participants.
+site_url: https://halvoribm.github.io/EY
+repo_url: https://github.com/HalvorIBM/EY
+repo_name: HalvorIBM/EY
 edit_uri: edit/main/docs/
 
 theme:
@@ -71,15 +71,15 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/HalvorIBM/openslava
+      link: https://github.com/HalvorIBM/EY
 
 nav:
   - Home: index.md
   - 🟢 Beginner:
-    - labs/openslava-beginner.md
+    - labs/EY-beginner.md
   - 🟡 Intermediate:
-    - labs/openslava-intermediate.md
+    - labs/EY-intermediate.md
   - 🔴 Expert:
-    - labs/openslava-expert.md
+    - labs/EY-expert.md
   - 🏆 Challenge:
-    - labs/openslava-challenge.md
+    - labs/EY-challenge.md

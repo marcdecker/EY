@@ -1,6 +1,6 @@
-# IBM Bob — OpenSlava Bobathon
+# IBM Bob — EY Bobathon
 
-Welcome to the **IBM Bob Hands-On Workshop** at OpenSlava! This is your complete guide for the 90-minute session — choose a track, follow the step-by-step instructions, and build real applications with IBM Bob.
+Welcome to the **IBM Bob Hands-On Workshop** at EY! This is your complete guide for the 90-minute session — choose a track, follow the step-by-step instructions, and build real applications with IBM Bob.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to the **IBM Bob Hands-On Workshop** at OpenSlava! This is your complete
 
 <div class="grid cards" markdown>
 
--   :material-numeric-1-circle:{ .lg .middle } __[🟢 Beginner](labs/openslava-beginner.md)__
+-   :material-numeric-1-circle:{ .lg .middle } __[🟢 Beginner](labs/EY-beginner.md)__
 
     ---
 
@@ -16,9 +16,9 @@ Welcome to the **IBM Bob Hands-On Workshop** at OpenSlava! This is your complete
 
     Build a confetti welcome app, add layover support to a full-stack travel app, then wire up date pickers and a mock AI booking agent — touching **Ask**, **Plan**, and **Agent** modes throughout.
 
-    [:octicons-arrow-right-24: Start Beginner Track](labs/openslava-beginner.md)
+    [:octicons-arrow-right-24: Start Beginner Track](labs/EY-beginner.md)
 
--   :material-numeric-2-circle:{ .lg .middle } __[🟡 Intermediate](labs/openslava-intermediate.md)__
+-   :material-numeric-2-circle:{ .lg .middle } __[🟡 Intermediate](labs/EY-intermediate.md)__
 
     ---
 
@@ -26,9 +26,9 @@ Welcome to the **IBM Bob Hands-On Workshop** at OpenSlava! This is your complete
 
     Drive a full **Issue → Branch → Code → PR** loop with GitHub MCP, then author and commit version-controlled team rules that Bob applies automatically on every interaction.
 
-    [:octicons-arrow-right-24: Start Intermediate Track](labs/openslava-intermediate.md)
+    [:octicons-arrow-right-24: Start Intermediate Track](labs/EY-intermediate.md)
 
--   :material-numeric-3-circle:{ .lg .middle } __[🔴 Expert](labs/openslava-expert.md)__
+-   :material-numeric-3-circle:{ .lg .middle } __[🔴 Expert](labs/EY-expert.md)__
 
     ---
 
@@ -36,9 +36,9 @@ Welcome to the **IBM Bob Hands-On Workshop** at OpenSlava! This is your complete
 
     Discover a banking-industry codebase, build a React UI, run a security audit, author fintech compliance rules, create a custom scoped mode, and automate the full SDLC with GitHub MCP.
 
-    [:octicons-arrow-right-24: Start Expert Track](labs/openslava-expert.md)
+    [:octicons-arrow-right-24: Start Expert Track](labs/EY-expert.md)
 
--   :material-trophy:{ .lg .middle } __[🏆 Challenge](labs/openslava-challenge.md)__
+-   :material-trophy:{ .lg .middle } __[🏆 Challenge](labs/EY-challenge.md)__
 
     ---
 
@@ -46,7 +46,7 @@ Welcome to the **IBM Bob Hands-On Workshop** at OpenSlava! This is your complete
 
     Build **PocketLedger** — a full-stack personal finance tracker — using every Bob skill you've learned: `/init`, rules, a custom mode, and a complete GitHub issue-to-PR loop. All Bob artefacts are judged.
 
-    [:octicons-arrow-right-24: Take the Challenge](labs/openslava-challenge.md)
+    [:octicons-arrow-right-24: Take the Challenge](labs/EY-challenge.md)
 
 </div>
 

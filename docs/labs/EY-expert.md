@@ -1,4 +1,4 @@
-# OpenSlava — Expert Track
+# EY — Expert Track
 
 Four labs · ~90 minutes total · For experienced Bob users
 
@@ -44,8 +44,8 @@ The three parts map directly to three Bob modes and three patterns you should ca
 **1 — Clone the workshop repo** (skip if you already have it)
 
 ```bash
-git clone git@github-halvoribm:HalvorIBM/openslava.git
-cd openslava
+git clone git@github-halvoribm:HalvorIBM/EY.git
+cd EY
 ```
 
 **2 — Start the GFM Bank API**
